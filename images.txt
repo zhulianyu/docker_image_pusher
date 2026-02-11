@@ -1,2 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 docker.getcollate.io/openmetadata/postgresql:1.11.8
