@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/postgresql:1.11.8
+vllm/vllm-openai:nightly
